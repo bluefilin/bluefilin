@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**[![My Skills](https://skillicons.dev/icons?i=js,html,css,ableton,docker,github,linux,mongodb,postman,react,vscode)](https://skillicons.dev)**
+**[![My Skills](https://skillicons.dev/icons?i=js,html,css,ableton,docker,github,linux,mongodb,postman,react,vscode&perline=3)](https://skillicons.dev)**
 
 
 
