@@ -1,5 +1,6 @@
-### Hi there 👋
-
+###
+👋 Hola soy David, Soy un un desarrollador en crecimiento
+ 
 **[![My Skills](https://skillicons.dev/icons?i=js,html,css,ableton,docker,github,mongodb,postman,react,vscode&perline=5)](https://skillicons.dev)**
 
 
