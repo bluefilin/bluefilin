@@ -3,6 +3,8 @@
 - 🔭 Actualmente estoy culminando mis estudios en ingenieria de sistemas
 - 🌱 Actualmente estoy aprendiendo sobre diferentes tecnologias que pueden funcionar en diferentes proyectos 
 - 👯 Me gustaria colaborar en un software para la composicion musical ya que es una de mis pasiones
+
+- Tengo conocimientos en estas diferentes tecnologias que quizá te interesen:
  
 **[![My Skills](https://skillicons.dev/icons?i=js,html,css,ableton,docker,github,mongodb,postman,react,vscode&perline=5)](https://skillicons.dev)**
 
