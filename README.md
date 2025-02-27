@@ -3,6 +3,7 @@
 - 🔭 Actualmente estoy culminando mis estudios en ingenieria de sistemas
 - 🌱 Actualmente estoy aprendiendo sobre diferentes tecnologias que pueden funcionar en diferentes proyectos 
 - 👯 Me gustaria colaborar en un software para la composicion musical ya que es una de mis pasiones
+- 💻✨ ¡Acepto sugerencias y consejos para mejorar y avanzar juntos en este apasionante camino del código!
 
 - Tengo conocimientos en estas diferentes tecnologias que quizá te interesen:
  
